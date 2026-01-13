@@ -26,27 +26,6 @@ To build a machine learning model that predicts customer churn based on demograp
 
 ---
 
-## 🏗️ Project Structure
-
-
-Customer-Churn-ANN/
-│
-├── data/
-│ └── churn_dataset.csv
-│
-├── model/
-│ └── ann_model.h5
-│
-├── notebooks/
-│ └── ann_training.ipynb
-│
-├── app.py
-├── requirements.txt
-└── README.md
-
-
----
-
 ## ⚙️ Part 1: ANN Model Training
 - Data preprocessing (encoding, scaling, feature selection)
 - Splitting data into training and testing sets
